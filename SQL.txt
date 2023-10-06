@@ -1,0 +1,23 @@
+Here are some SQL articles for beginners that can help you get started-
+1. "SQL for Beginners: Learn SQL in 10 Minutes" by Kevin Chisholm
+   Link: https://blog.kevinchisholm.com/sql/sql-for-beginners/
+2. "Learn SQL: A Comprehensive Guide" by Mode Analytics
+   Link: https://mode.com/sql-tutorial/
+3. "SQL Zoo" by SQLZoo
+   Link: https://sqlzoo.net/
+4. "A Gentle Introduction to SQL" by Zed A. Shaw
+   Link: https://learncodethehardway.org/sql/
+5. "SQL Tutorial for Beginners" by Guru99
+   Link: https://www.guru99.com/sql.html
+6. "SQL Tutorial" by W3Schools
+   Link: https://www.w3schools.com/sql/
+7. "SQL Basics for Beginners" by LearnSQL.com
+   Link: https://learnsql.com/blog/sql-basics-for-beginners/
+8. "Getting Started with SQL" by Khan Academy
+   Link: https://www.khanacademy.org/computing/computer-programming/sql
+9. "SQL Tutorial for Beginners" by SQLCourse
+   Link: https://www.sqlcourse.com/intro.html
+10. "Learn SQL: A Beginner's Guide to SQL" by Udemy
+    Link: https://blog.udemy.com/learn-sql-a-beginners-guide/
+
+dhruvsubhlok@gmail.com
